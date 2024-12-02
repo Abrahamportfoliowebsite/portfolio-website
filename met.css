@@ -1,0 +1,312 @@
+.firstbox{
+    float: right;
+}
+
+.secondbox{
+    float: left;
+    margin-right: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 15px;
+}
+
+input{
+    border-radius: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 30px;
+    border-color: transparent;
+}
+
+#nee{
+    background-color: dodgerblue;
+    height: 40px;
+}
+
+a{
+    margin: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 15px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: green;
+}
+
+.container{
+    border: transparent;
+    display: flex;
+    justify-content: center;
+    background-color: dodgerblue;
+    height: 400px;
+    width: 400px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    float: right;
+    align-items: center;
+    border-radius: 100px;
+
+}
+
+#p{
+    margin-left: 25px;
+    margin-bottom: ;
+}
+
+.boxes{
+    margin: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.main{
+    border: transparent;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    width: 800px;
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+}
+
+footer{
+    background-color:black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: dodgerblue;
+    
+}
+
+#mee{
+    border: 1px solid black;
+    border-radius: 0%;
+    border-color: black;
+    height: 0%;
+}
+
+#gee{
+    background-color: whitesmoke;
+}
+
+.dee{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-image: url(download\ \(2\).jpg);
+    width: 550px;
+    margin-left: 400px;
+    color: white;
+}
+
+.him{
+    margin-top: 50px;
+    background-color: black;
+}
+
+#cece{
+    color: dodgerblue;
+}
+
+#emmet{
+    border: transparent;
+    border-radius: 0%;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    margin-top: 0%;
+}
+
+#set{
+    border: 1px solid red;
+    border-radius: 0%;
+    margin-left: 5px;
+    height: 50px;
+    width: 100px;
+    background-color: transparent;
+    color: red;
+}
+
+@media  screen and (min-width: 481px){
+    .firstbox{
+        float: right;
+    }
+    
+    .secondbox{
+        float: left;
+        margin-right: 50px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-top: 15px;
+    }
+    
+    input{
+        border-radius: 100px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        height: 30px;
+        border-color: transparent;
+    }
+    
+    #nee{
+        background-color: dodgerblue;
+        height: 40px;
+    }
+    
+    a{
+        margin: 5px;
+    }
+    
+    .container{
+        border: transparent;
+        display: flex;
+        justify-content: center;
+        background-color: dodgerblue;
+        height: 400px;
+        width: 400px;
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 60px;
+        float: right;
+        align-items: center;
+        border-radius: 100px;
+    
+    }
+    
+    #p{
+        margin-left: 25px;
+        margin-bottom: ;
+    }
+    
+    .boxes{
+        margin: 45px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+    
+    .main{
+        border: transparent;
+        background-color: transparent;
+        display: flex;
+        justify-content: center;
+        height: 400px;
+        width: 800px;
+        color: rgb(0, 0, 0);
+        font-size: 60px;
+    }
+    
+    footer{
+        background-color:black;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        
+    }
+    
+    h2{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        color: dodgerblue;
+        
+    }
+    
+    #mee{
+        border: 1px solid black;
+        border-radius: 0%;
+        border-color: black;
+        height: 0%;
+    }
+    
+    #gee{
+        background-color: whitesmoke;
+    }
+    
+    .dee{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        background-image: url(download\ \(2\).jpg);
+        width: 550px;
+        margin-left: 400px;
+        color: white;
+    }
+    
+    .him{
+        margin-top: 50px;
+        background-color: black;
+    }
+    
+    #cece{
+        color: dodgerblue;
+    }
+    
+    #emmet{
+        border: transparent;
+        border-radius: 0%;
+        text-align: center;
+        width: 300px;
+        height: 50px;
+        margin-top: 0%;
+    }
+    
+    #set{
+        border: 1px solid red;
+        border-radius: 0%;
+        margin-left: 5px;
+        height: 50px;
+        width: 100px;
+        background-color: transparent;
+        color: red;
+    }
+}
+
+#me{
+    text-align: center;
+}
+
+.modal{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: black;
+    background-color: transparent;
+}
+
+.modal-content{
+    background-color: black;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid dodgerblue;
+    width: 80%;
+}
+
+.close{
+    color: red;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+
+}
+
+.close:hover, .close:focus{
+    color: whitesmoke;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#ham:hover{
+    transform: rotate3d(360deg);
+    transition: 0.4s;
+    border-radius: 100px;
+    border-color: dodgerblue;
+    border: 3px solid dodgerblue;
+}
+
